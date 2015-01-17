@@ -15,7 +15,7 @@ Atom:
 1. Bryl, Adrian / 9.11 30.11
 1. [Ciepliński, Dominik](https://github.com/Mafferek/Programowanie---Na-Uczelni) / 16.11 30.11
 1. [Czarkowska, Monika](https://github.com/monika001/zadania-z-basha/). [1](https://github.com/monika001/Programowanie-w-C), [4](https://github.com/monika001/Programowanie-w-C/blob/master/Laboratorium4.md), [5](https://github.com/monika001/Programowanie-w-C/blob/master/Laboratorium5.md) / 7.12 14.12 11.01
-1. [Dawidowski, Marcin](https://github.com/mdawidowski/Zadania-z-basha) / 11.01
+1. [Dawidowski, Marcin](https://github.com/mdawidowski/Zadania-z-basha). [1](https://bitbucket.org/mdawidowski/progr-c/overview) / 11.01
 
 ----
 
